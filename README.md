@@ -1,11 +1,11 @@
-🏛️ E-Governance Web Application
+# 🏛️ E-Governance Web Application
 📌 Overview
 
 The E-Governance Web Application is a Java-based web project designed to provide digital access to government-related services in a secure and user-friendly manner. The application helps streamline public services by allowing users to submit requests, view information, and interact with the system online.
 
 This project is developed using Java, JSP, Servlets, HTML, and CSS, deployed on the Apache Tomcat Server, and uses PHPMyAdmin (MySQL via WAMP Server) as the backend database. The application follows proper separation of concerns between presentation, logic, and data layers.
 
-🚀 Features
+# 🚀 Features
 
 🔐 User Registration and Login
 
@@ -21,7 +21,7 @@ This project is developed using Java, JSP, Servlets, HTML, and CSS, deployed on 
 
 🎨 Simple and Responsive UI
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Backend
 
 Java
@@ -46,7 +46,7 @@ Apache Tomcat
 
 WAMP Server
 
-🏗️ Project Architecture
+# 🏗️ Project Architecture
 
 The application follows a MVC-based approach:
 
@@ -61,7 +61,7 @@ Servlets handling requests, responses, and application logic
 
 This architecture improves maintainability and scalability.
 
-🗂️ Modules
+# 🗂️ Modules
 
 User Authentication Module
 
@@ -71,7 +71,7 @@ Admin Management Module
 
 Data Storage and Retrieval Module
 
-🗄️ Database Design
+# 🗄️ Database Design
 
 Database managed using PHPMyAdmin
 
@@ -85,7 +85,7 @@ Government records
 
 Ensures structured and persistent data storage
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 JSP and Servlet-based web development
 
@@ -97,7 +97,7 @@ MVC architecture understanding
 
 Real-world e-governance system design
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Online document verification
 
@@ -109,7 +109,7 @@ REST API support
 
 Improved UI with Bootstrap
 
-👨‍💻 Developer
+# 👨‍💻 Developer
 
 Raju
 Java Web Developer
